@@ -1,0 +1,15 @@
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\bin\Debug\net8.0\лб4.exe
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\bin\Debug\net8.0\лб4.deps.json
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\bin\Debug\net8.0\лб4.runtimeconfig.json
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\bin\Debug\net8.0\лб4.dll
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\bin\Debug\net8.0\лб4.pdb
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.AssemblyInfoInputs.cache
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.AssemblyInfo.cs
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.csproj.CoreCompileInputs.cache
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.sourcelink.json
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.dll
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\refint\лб4.dll
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.pdb
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\лб4.genruntimeconfig.cache
+C:\Users\wispin\Desktop\lb-4\лб4\лб4\obj\Debug\net8.0\ref\лб4.dll
